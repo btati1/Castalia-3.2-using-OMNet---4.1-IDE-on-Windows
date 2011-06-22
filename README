@@ -1,4 +1,7 @@
-Castalia-3.2 works fine with OMNet using command-line mode under Linux. This package of Castalia has been modified to work with OMNet++ 4.1 IDE under windows and Linux as well. You may still need to use command line mode. However, this package would be helpful for using OMNet IDE features such as watching variables, using advanced debugging…etc 
+Castalia-3.2 works fine with OMNet using command-line mode under Linux. 
+This package of Castalia has been modified to work with OMNet++ 4.1 IDE under windows and Linux as well. 
+You may still need to use command line mode. 
+However, this package would be helpful for using OMNet IDE features such as watching variables, using advanced debugging…etc 
 
 Known Problem:
 Sometimes, you may get the following error:
